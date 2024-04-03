@@ -1,0 +1,11 @@
+Variation,Process Step,Average Time Spent (Seconds)
+Control,start,50
+Test,start,47
+Control,step 1,45
+Test,step 1,52
+Control,step 2,97
+Test,step 2,91
+Control,step 3,136
+Test,step_3,119
+Control,confirm,131
+Test,confirm,195
